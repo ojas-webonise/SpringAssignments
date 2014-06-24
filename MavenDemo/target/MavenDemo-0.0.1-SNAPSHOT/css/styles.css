@@ -1,0 +1,36 @@
+@CHARSET "UTF-8";
+
+/* * {
+	margin: 0px;
+	padding: 0px;
+}
+ */
+body {
+	background: gray;
+	font-family: serif;
+}
+
+.fieldDiv {
+	margin: 0 auto;
+	padding: 10px;
+	text-align: center;	
+}
+
+.fieldLabel {
+	float: left;
+	font-size: 20px;
+	line-height: 22px;
+}
+
+.textArea {
+	width: 180px;
+	height: 30px;
+	font-size: 20px;
+	padding : 3px;
+	line-height: 24px;
+}
+
+.button {
+	margin-left: 200px;
+	margin-top: 10px;
+}
