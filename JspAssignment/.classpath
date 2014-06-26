@@ -16,7 +16,7 @@
 	<classpathentry kind="lib" path="jars/commons-logging-1.1.3.jar"/>
 	<classpathentry kind="lib" path="jars/spring-aop-4.0.5.RELEASE.jar"/>
 	<classpathentry kind="lib" path="jars/spring-aspects-4.0.5.RELEASE.jar"/>
-	<classpathentry kind="lib" path="jars/spring-beans-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jars/spring-beans-4.0.5.RELEASE.jar" sourcepath="/home/webonise/.m2/repository/org/springframework/spring-beans/4.0.5.RELEASE/spring-beans-4.0.5.RELEASE-sources.jar"/>
 	<classpathentry kind="lib" path="jars/spring-context-4.0.5.RELEASE.jar"/>
 	<classpathentry kind="lib" path="jars/spring-context-support-4.0.5.RELEASE.jar"/>
 	<classpathentry kind="lib" path="jars/spring-core-4.0.5.RELEASE.jar"/>
